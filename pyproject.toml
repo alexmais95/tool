@@ -1,0 +1,18 @@
+[project]
+name = "tool"
+version = "0.0.1"
+authors = [
+    {name="Alex Mais", email="alexlove9596@gmail.com"}
+]
+description = "Simple Python package"
+readme = {file = "README.rst", content-type = "text/x-rst"}
+requires-python = ">=3"
+dependencies = []
+license = {text = "MIT License"}
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+]
+
+[project.urls]
+repository = "git@github.com:alexmais95/tool.git"
